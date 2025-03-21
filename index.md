@@ -5,6 +5,9 @@
 var myVar = "你好，世界！";
 ```
 ### 3
+- [ ] 1
+- [x] 2
+- [ ] Introduce myself to the world
 #### 4
 ##### 5
 ###### 6
